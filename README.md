@@ -1,6 +1,6 @@
 # Using Tux in Sinatra with ActiveRecord
 
-## Overview
+## Overvie
 
 In this lesson, we'll cover Tux, a Ruby gem, that you can use to make sure your database and ActiveRecord associations are set up properly. 
 
